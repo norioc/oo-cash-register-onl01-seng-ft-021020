@@ -1,2 +1,11 @@
 
-Class 
+Class CashRegister 
+
+
+
+
+
+
+
+
+end 
