@@ -9,7 +9,7 @@ class CashRegister
       @items = [] 
   end
   
-  def aff_item(title, price )
+  def aff_item(title, price, quanity = 1)
 
 
 
