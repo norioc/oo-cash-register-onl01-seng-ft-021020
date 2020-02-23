@@ -9,7 +9,7 @@ Class CashRegister
       @items = [] 
   end
   
-  def total 
+  def 
 
 
 
