@@ -27,5 +27,8 @@ class CashRegister
       end
   end
   
-  
+  def 
+    
+    
+  end
 end 
