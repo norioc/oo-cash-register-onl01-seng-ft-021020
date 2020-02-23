@@ -3,9 +3,9 @@ Class CashRegister
 
   attr_accessor :total, :discount, :items, 
 
-  def initalize 
+  def initalize
 
-
+  end
 
 
 
