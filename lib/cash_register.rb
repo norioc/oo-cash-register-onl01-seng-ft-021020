@@ -1,6 +1,7 @@
 
 Class CashRegister 
 
+  attr_accessor
 
 
 
